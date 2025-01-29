@@ -1,4 +1,3 @@
-package com.package1;
 import java.util.Scanner;
 public class Project1  {
 		static float bill=0;
